@@ -1,6 +1,8 @@
+//1003 Beecrownd
+
 import java.util.Scanner;
 
-public class somaSimples {
+public class SomaSimples {
 
     public static void main(String[] args) {
         int A;

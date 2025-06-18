@@ -1,3 +1,5 @@
+//1010 Beecrownd
+
 import java.util.Scanner;
 
 public class CalculoSimples {

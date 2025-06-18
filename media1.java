@@ -1,6 +1,8 @@
+//1005 Beecrown
+
 import java.util.Scanner;
 
-public class media1 {
+public class Media1 {
     public static void main(String[] args) {
         Scanner src = new Scanner(System.in);
 

@@ -1,6 +1,8 @@
+//1013 Beecrownd
+
 import java.util.Scanner;
 
-public class maior {
+public class Maior {
     static Scanner reader;
     static int primeiroValor;
     static int segundoValor;
@@ -27,7 +29,7 @@ public class maior {
     }
 
     public static void main(String[] args) {
-        maior.LerEntrada();
-        maior.AcharMaior(array);
+        Maior.LerEntrada();
+        Maior.AcharMaior(array);
     }
 }

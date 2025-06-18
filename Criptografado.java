@@ -1,3 +1,5 @@
+//1024 Beecrownd
+
 import java.util.Scanner;
 
 public class Criptografado {
