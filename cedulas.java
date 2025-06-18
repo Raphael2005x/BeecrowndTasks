@@ -1,6 +1,8 @@
+//1018 Beecrownd
+
 import java.util.Scanner;
 
-public class cedulas {
+public class Cedulas {
     static Scanner reader;
     static int array[];
     static int N;
@@ -25,7 +27,7 @@ public class cedulas {
     }
 
     public static void main(String[] args) {
-        cedulas.receberEntrada();
-        cedulas.AcharQuantidadeMinima();
+        Cedulas.receberEntrada();
+        Cedulas.AcharQuantidadeMinima();
     }
 }

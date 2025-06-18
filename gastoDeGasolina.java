@@ -1,6 +1,8 @@
+//1017 Beecrownd
+
 import java.util.Scanner;
 
-public class gastoDeGasolina {
+public class GastoDeGasolina {
     static Scanner reader;
     static int[] array;
     static double horas;
@@ -26,8 +28,8 @@ public class gastoDeGasolina {
     }
 
     public static void main(String[] args) {
-        gastoDeGasolina.ReceberEntradas();
-        gastoDeGasolina.SetarHorasKmporh(array);
-        gastoDeGasolina.calcular();
+        GastoDeGasolina.ReceberEntradas();
+        GastoDeGasolina.SetarHorasKmporh(array);
+        GastoDeGasolina.calcular();
     }
 }

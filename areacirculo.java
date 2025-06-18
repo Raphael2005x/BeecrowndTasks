@@ -1,6 +1,8 @@
+//1002 Beecrownd
+
 import java.util.Scanner;
 
-public class areacirculo {
+public class AreaCirculo {
 
     public static void main(String[] args) {
         Scanner src = new Scanner(System.in);

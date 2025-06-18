@@ -1,6 +1,8 @@
+//1012 Beecrownd
+
 import java.util.Scanner;
 
-public class area {
+public class Area {
     static Scanner reader;
     static double A;
     static double B;

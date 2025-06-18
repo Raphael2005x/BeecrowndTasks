@@ -1,6 +1,8 @@
+//1016 Beecrownd
+
 import java.util.Scanner;
 
-public class distancia {
+public class Distancia {
     static Scanner reader;
     static int N;
 
@@ -15,7 +17,7 @@ public class distancia {
     }
 
     public static void main(String[] args) {
-        distancia.ReceberEntrada();
-        distancia.TempoNecessario();
+        Distancia.ReceberEntrada();
+        Distancia.TempoNecessario();
     }
 }
