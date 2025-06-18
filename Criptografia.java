@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Codificacao {
+public class Criptografia {
 
     static Scanner Reader;
     static int QuantidadeTextos;
