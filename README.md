@@ -86,6 +86,6 @@ Sinta-se à vontade para estudar, modificar e usar como base para seus próprios
 ## 📬 Contato
 
 - GitHub: [@Raphael2005x](https://github.com/Raphael2005x)
-- LinkedIn: [https://www.linkedin.com/in/raphaelin/]
+- LinkedIn: [Raphael Zibetti Resko](https://www.linkedin.com/in/raphaelin/)
 
 ---
