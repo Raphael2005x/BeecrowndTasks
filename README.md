@@ -1,6 +1,6 @@
 # 🧠 Problemas Resolvidos - Beecrowd
 
-Este repositório contém soluções de problemas da plataforma [Beecrowd](https://www.beecrowd.com.br/), resolvidos em Java. Os exercícios são focados em lógica de programação, estruturas de controle, recursividade e outros conceitos fundamentais.
+Este repositório contém soluções de problemas da plataforma [Beecrowd](https://www.beecrowd.com.br/), resolvidos em Java. Os exercícios são focados em lógica de programação, recursividade, estrutura de repetição, e outros conceitos fundamentais.
 
 ---
 
